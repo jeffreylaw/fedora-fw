@@ -1,1 +1,2 @@
-kwin --replace -> When meta stops working
+kwin --replace &> When meta stops working
+chrome://flags -> Preferred Ozone platform -> Wayland &> Chrome blurriness
