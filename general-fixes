@@ -1,2 +1,3 @@
 kwin --replace &> When meta stops working
 chrome://flags -> Preferred Ozone platform -> Wayland &> Chrome blurriness
+Right click window -> More -> Move &> Moving windows stuck on unplugged external
